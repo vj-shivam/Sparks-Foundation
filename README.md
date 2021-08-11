@@ -14,3 +14,11 @@ We need to predict the score of the student if he/she studies for 9.25 hrs/day.
 I will be doing this with the help of python libraries i.e. matplotlib and seaborn. Dataset can be found at : https://bit.ly/3i4rbWl.
 ## What are we supposed to do with the given dataset?
 As a business manager, we will try to find out the weak areas where we can work tomake more profit. Also, what all business problems can be derived by exploring the data.
+
+# Technical : Task 5 - Exploratory Data Analysis - Sports (Level Advanced)
+## Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’ 
+I will be doing this with the help of python libraries i.e. matplotlib and seaborn. Dataset can be found at :https://bit.ly/34SRn3b
+## What are we supposed to do with the given dataset?
+As a sports analysts, find out the most successful teams, players and factors 
+contributing win or loss of a team. Suggest teams or players a company should endorse for its products.  
+
